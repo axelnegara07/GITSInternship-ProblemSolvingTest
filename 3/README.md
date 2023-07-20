@@ -10,4 +10,5 @@
 
 -Sehingga, ruang yang digunakan bergantung pada panjang string input (N).
 
+
 Karena kompleksitas waktu dan ruang program sama-sama bergantung pada panjang string input (N), maka kompleksitas program adalah O(N) baik untuk waktu maupun ruang.
